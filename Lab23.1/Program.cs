@@ -29,7 +29,7 @@ namespace Lab23._1
         
         public static void Main()
         {
-            int k = 0, m = 1, j = 1, sum = 0 ;
+            int k = 0, m = 1, j = 1, sum = 0;
             uint length=1; 
             Console.WriteLine("Кiлькiсть чисел:");
             string length1= Console.ReadLine();
