@@ -22,7 +22,6 @@ namespace Lab23._1
             for (int j = m+1; j < length; j++)
             {
                 sum += number[j];
-                Console.WriteLine(number[j]+"   "+sum);
             }
             return sum;
         }
