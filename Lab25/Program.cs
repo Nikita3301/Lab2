@@ -57,7 +57,7 @@ namespace Lab25
                 Console.Write("\n");
             }
             // перетворення в одновимірний масив
-            int[] arr2 = new int[m*n];
+            int[] arr2 = new int[m * n];
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < m; j++)
