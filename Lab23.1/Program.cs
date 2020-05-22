@@ -19,7 +19,7 @@ namespace Lab23._1
 
         public static int Sum(int []number, int sum, int m, uint length )
         {
-            for (int j=m+1; j < length; j++)
+            for (int j = m+1; j < length; j++)
             {
                 sum += number[j];
                 Console.WriteLine(number[j]+"   "+sum);
