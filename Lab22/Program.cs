@@ -19,7 +19,7 @@ namespace Lab22
             double b = Convert.ToDouble(Console.ReadLine());
             do
             {
-                Console.Write("Крок(dx)(додатнє значення): ");
+                Console.Write("Крок(dx)(додатнє значення) : ");
                 dx = Convert.ToDouble(Console.ReadLine());
             } while (dx <= 0);
             Console.Write("  x\t\t y \t\n");
