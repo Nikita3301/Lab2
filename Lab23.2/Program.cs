@@ -42,7 +42,7 @@ namespace Lab23._2
             for (int i = 0; i < length; i++)
             { 
                 number[i] = rnd.Next(-100, 100);
-                Console.WriteLine((i+1) + ":"+number[i]);
+                Console.WriteLine((i+1) + ":" + number[i]);
                 if (number[i] > max)
                 {
                     m = i;
